@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Leetcode/input.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/BuildSystem/1-TERMINUS-PY.sublime-build",
+					""
+				],
+				[
+					"Packages/User/BuildSystem/2-FILE-Python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/BuildSystem/2-FILE-Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Build With: 1-TERMINUS-PY"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"code",
+				"Codeium: Enable Plugin"
+			],
+			[
+				"cod",
+				"Codeium: Provide Auth Token"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"ui ",
+				"UI: Select Theme"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sels",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 463.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Python/Leetcode"
+	],
+	"file_history":
+	[
+		"/E/social_media_app-main/social_media_app-main/src/App.tsx",
+		"/E/DSA/input.txt",
+		"/E/DSA/Stater15/question1.py",
+		"/C/Users/anshr/AppData/Roaming/Sublime Text/Packages/User/BuildSystem/2-FILE-Python.sublime-build",
+		"/E/DSA/Stater15/input.txt",
+		"/E/GitHub/digitalhippo-master/package.json",
+		"/R/digitalhippo-master/src/app/layout.tsx",
+		"/R/digitalhippo-master/next.config.js",
+		"/R/digitalhippo-master/src/app/page.tsx",
+		"/R/User/Emmet.sublime-settings",
+		"/R/User/Doxy.sublime-settings",
+		"/R/User/Preferences.sublime-settings",
+		"/C/Users/anshr/AppData/Roaming/Sublime Text/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/R/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/R/digitalhippo-master/src/app/globals.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Leetcode/input.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 283.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.out":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "Python.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
