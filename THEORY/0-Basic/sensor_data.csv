@@ -1,0 +1,7 @@
+Timestamp,SensorID,Temperature,Humidity
+2023-11-01T10:00:00Z,SensorA,22.5,45.1
+2023-11-01T10:01:00Z,SensorB,21.8,46.5
+2023-11-01T10:02:00Z,SensorA,22.6,45.2
+INVALID LINE, only one field
+2023-11-01T10:03:00Z,SensorC,23.1,44.9
+2023-11-01T10:04:00Z,SensorB,21.9,46.8,extra_field

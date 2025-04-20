@@ -1,0 +1,21 @@
+{
+    "name": "Sensor Array",
+    "location": {
+        "lat": 40.7128,
+        "lon": -74.006
+    },
+    "readings": [
+        {
+            "timestamp": "2023-10-26T10:00:00Z",
+            "value": 15.5,
+            "unit": "C"
+        },
+        {
+            "timestamp": "2023-10-26T10:05:00Z",
+            "value": 15.8,
+            "unit": "C"
+        }
+    ],
+    "active": true,
+    "calibration_factor": null
+}

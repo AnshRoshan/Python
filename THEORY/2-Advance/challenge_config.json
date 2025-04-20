@@ -1,0 +1,10 @@
+{
+    "debug_mode": true,
+    "log_level": "DEBUG",
+    "db": {
+        "host": "localhost",
+        "port": 5432,
+        "username": "admin",
+        "password": "secret123"
+    }
+}

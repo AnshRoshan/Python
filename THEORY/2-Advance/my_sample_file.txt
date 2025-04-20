@@ -1,0 +1,5 @@
+Hello from Python!
+This is the second line. Special chars: äöüß €
+Third line
+Fourth line
+This line was appended.
